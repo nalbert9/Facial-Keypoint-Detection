@@ -13,7 +13,7 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 
 ## Project Structure
 The project will be broken up into a few main parts in four Python notebooks:
-
+### `models.py`
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
 __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
