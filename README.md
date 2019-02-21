@@ -51,5 +51,5 @@ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
 pip install -r requirements.txt
 ```
 
-## The MIT Licence
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Licence
+This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
