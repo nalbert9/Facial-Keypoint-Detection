@@ -9,9 +9,14 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 <p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="400px"> </p> 
 
 + **Detect facial keypoint with a Convolutional neural network**
-<p align="center"> <img src="images/barack.png" align="middle" alt="drawing" width="200px"> </p>
-
-<p align="center"> <img src="images/michelle.png" align="middle" alt="drawing" width="200px"> </p>
+<div class="row">
+  <div class="column">
+    <img src="barack.png" alt="Barack" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="michelle.png" alt="Michelle" style="width:100%">
+  </div>
+</div>
 
 The project will be broken up into a few main parts in four Python notebooks:
 
