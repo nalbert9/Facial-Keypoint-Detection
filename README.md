@@ -13,8 +13,6 @@ __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to P
 __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
 __Notebook 4__ : Fun Filters and Keypoint Uses
-ades and the Trained CNN;
-- Fun Filters and Keypoint Uses.
 
 ### Local Environment Instructions
 
