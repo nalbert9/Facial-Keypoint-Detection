@@ -8,6 +8,15 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 	<img src="images/Obamas.png" align="middle" alt="drawing" width="500px">
 </p>
 
+<p align="center">
+	<img src="images/barack.png" align="middle" alt="drawing" width="500px">
+</p>
+
+<p align="center">
+	<img src="images/michelle.png" align="middle" alt="drawing" width="500px">
+</p>
+
+
 The project will be broken up into a few main parts in four Python notebooks:
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
