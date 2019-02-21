@@ -6,8 +6,6 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 
 The project will be broken up into a few main parts in four Python notebooks:
 
-The project will be broken up into a few main parts in four Python notebooks:
-
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
 __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
@@ -47,5 +45,5 @@ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
 pip install -r requirements.txt
 ```
 
-# The MIT Licence
+## The MIT Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
