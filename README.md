@@ -7,7 +7,9 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 ## Sample
 + **Detect all faces using Haar Cascade classifiers**
 <p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="500px"> </p> 
-+ **Convolutional neural network facial keypoint detector**
+![](./images/Obamas =250x)
+
++ **Detect facial keypoint with a Convolutional neural network**
 <p align="center"> <img src="images/barack.png" align="middle" alt="drawing" width="250px"> </p>
 
 <p align="center"> <img src="images/michelle.png" align="middle" alt="drawing" width="250px"> </p>
