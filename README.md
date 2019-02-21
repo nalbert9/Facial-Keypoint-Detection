@@ -11,10 +11,10 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 + **Detect facial keypoint with a Convolutional neural network**
 <div class="row">
   <div class="column">
-    <img src="barack.png" alt="Barack" style="width:100%">
+    <img src="images/barack.png" alt="Barack" style="width:100%">
   </div>
   <div class="column">
-    <img src="michelle.png" alt="Michelle" style="width:100%">
+    <img src="images/michelle.png" alt="Michelle" style="width:100%">
   </div>
 </div>
 
