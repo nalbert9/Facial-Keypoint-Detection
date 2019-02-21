@@ -6,17 +6,11 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 
 ## Sample
 - **Detect all faces using Haar Cascade classifiers**
-<p align="center">
-	<img src="images/Obamas.png" align="middle" alt="drawing" width="500px">
-</p>
+<p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="500px"> </p>
 - **Convolutional neural network facial keypoint detector**
-<p align="center">
-	<img src="images/barack.png" align="middle" alt="drawing" width="250px">
-</p>
+<p align="center"> <img src="images/barack.png" align="middle" alt="drawing" width="250px"> </p>
 
-<p align="center">
-	<img src="images/michelle.png" align="middle" alt="drawing" width="250px">
-</p>
+<p align="center"> <img src="images/michelle.png" align="middle" alt="drawing" width="250px"> </p>
 
 The project will be broken up into a few main parts in four Python notebooks:
 
