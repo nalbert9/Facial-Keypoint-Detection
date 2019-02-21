@@ -11,6 +11,7 @@ This project combine knowledge of Computer Vision Techniques and Deep learning A
 + **Detect facial keypoint with a Convolutional neural network**
 <p align="center"> <img src="images/obamas_detected.png" align="middle" alt="drawing" width="300px"> </p>
 
+## Project Structure
 The project will be broken up into a few main parts in four Python notebooks:
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
