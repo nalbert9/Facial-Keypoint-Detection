@@ -26,7 +26,7 @@ def active_session(delay=DELAY, interval=INTERVAL):
     from workspace_utils import active session
 
     with active_session():
-        # do long-running work here
+        # do long-running work here.
     """
     token = requests.request("GET", TOKEN_URL, headers=TOKEN_HEADERS).text
     headers = {'Authorization': "STAR " + token}
