@@ -48,7 +48,6 @@ class Net(nn.Module):
         # output size = (W-F)/S +1 = (54-3)/1 + 1 = 52
         # the output Tensor for one image, will have the dimensions: (64, 54, 54)
         self.conv3 = nn.Conv2d(64, 128, 3)
-        self.conv3_bn = nn.BatchNorm2d(128)
         
         # output size = (W-F)/S +1 = (26-3)/1 + 1 = 24
         # the output Tensor for one image, will have the dimensions: (128, 26, 26)
