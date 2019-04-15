@@ -5,10 +5,10 @@
 This project was created as part of a submission for Computer Vision, Nanodegree  via [Udacity](https://eu.udacity.com/course/computer-vision-nanodegree--nd891). It combine knowledge of Computer Vision Techniques and Deep learning Architectures to build a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications (facial tracking, facial pose recognition, facial filters, and emotion recognition).
 
 ## Examples
-+ **Detect all faces using Haar Cascade classifiers**
++ **Detect all faces using Haar Cascade Classifiers using OpenCV**
 <p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="400px"> </p> 
 
-+ **Detect facial keypoint with a Convolutional neural network**
++ **Detect facial keypoint with a Convolutional Neural Network**
 <p align="center"> <img src="images/obamas_detected.png" align="middle" alt="drawing" width="300px"> </p>
 
 ## Project Structure
